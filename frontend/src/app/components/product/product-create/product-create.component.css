@@ -1,0 +1,17 @@
+mat-card-title {
+  margin: 5px 0 0 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.buttons {
+  margin: 0 0 10px 10px;
+}
+
+.buttons > button:first-child {
+  margin-right: 5px;
+}
